@@ -1,3 +1,4 @@
+# coding=utf-8
 url = "https://jiadian.jd.com/"
 import requests
 try:
